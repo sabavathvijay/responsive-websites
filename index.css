@@ -382,9 +382,12 @@ footer {
 
     }
     .sub-menu{
-        font-size: small;
+        font-size: 11px;
     }
 
+    .login{
+        padding-right: 1px;
+    }
 
     .right {
         padding-left: 0px;
