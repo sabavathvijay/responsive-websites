@@ -772,7 +772,7 @@ button {
 @media screen and (max-width:600px) {
 
     .card img:hover {
-        transform: scale(1.2);
+        transform: scale(1.5);
     }
 
     .extra {
